@@ -1,0 +1,30 @@
+project:
+  type: book
+
+book:
+  title: "Engineering: What are we doing?"
+  author: "Matthew Kuperus Heun"
+  date: "2026-05-29"
+  chapters:
+    - index.qmd
+    - introduction.qmd
+    - creation.qmd
+    - problems.qmd
+    - redemption.qmd
+    - conclusion.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    html-math-method: mathjax
+  pdf:
+    documentclass: scrreprt
+    include-in-header:
+      text: |
+        \usepackage{cancel}
+
+
+
+

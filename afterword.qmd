@@ -1,4 +1,4 @@
-# Afterword
+# Afterword {.unnumbered}
 
 I'm hopeful that publishing this keynote
 will be a benefit to students and

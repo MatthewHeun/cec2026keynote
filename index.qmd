@@ -25,6 +25,8 @@ see my
 [blog post](https://matthewheun.com/posts/2026-05-29-ces-keynote-speech-photos/) 
 about the keynote.
 
+![Making a point. Source: Randy Pruim.](/images/CR5_0484-small.jpg){fig-alt="Making a point." group="ces-keynote-gallery" width=80%}
+
 The pages that follow will make more sense if you
 know a few things about the event:
 
@@ -38,7 +40,7 @@ know a few things about the event:
    "Mathematical sciences" to indicate 
    seating for audience members.
    The signs facilitated a few short discussions
-   that you will notice during the keynote.
+   during the keynote.
 3. Although this online version of the keynote
    includes chapters
    (Creation, Problems and the Fall, Redemption),

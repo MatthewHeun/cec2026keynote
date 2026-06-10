@@ -19,11 +19,11 @@ format:
       - cosmo
       - brand
     html-math-method: mathjax
-  pdf:
-    documentclass: scrreprt
-    include-in-header:
-      text: |
-        \usepackage{cancel}
+  # pdf:
+  #   documentclass: scrreprt
+  #   include-in-header:
+  #     text: |
+  #       \usepackage{cancel}
 
 execute:
   freeze: auto

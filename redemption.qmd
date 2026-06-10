@@ -205,7 +205,7 @@ additional presentations to the board of trustees,
 challenging them, in the friendliest possible way, 
 to use endowment money to invest in ourselves rather than the market. 
 
-![ENGR333 student presentations. Source: [Calvin University](https://gallery.calvin.edu/Academics/Science-Technology-Engineering-Mathematics/Engineering/ENGR-333-Presentation-2024-Fall/i-SMcHmc7/A).](images/engr333-student-presentations.png){fig-alt="ENGR333 student presentations."}
+![ENGR333 student presentations. Sources: [Fall 2024 ENGR333 final report](https://matthewheun.com/posts/2024-12-26-engr333-project-fall-2024/) and [Calvin University](https://gallery.calvin.edu/Academics/Science-Technology-Engineering-Mathematics/Engineering/ENGR-333-Presentation-2024-Fall/i-SMcHmc7/A).](images/engr333-student-presentations.png){fig-alt="ENGR333 student presentations."}
 
 They were persuasive! 
 Calvin University will use electricity cost savings 

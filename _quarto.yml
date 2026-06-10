@@ -115,8 +115,6 @@ format:
     toc: true
     html-math-method: mathjax
 
-
-
 execute:
   enabled: true
   freeze: auto

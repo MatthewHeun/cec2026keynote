@@ -434,7 +434,7 @@ But the parallels between the work of engineers and
 God's activity at creating the universe are striking. 
 
 So, back to the title of my talk. 
-Engineering: what are we do-ing? 
+Engineering: what are we doing? 
 
 We engineers move between the concrete and the abstract 
 and back again to design and create,

@@ -62,7 +62,7 @@ sending back the first image
 taken on the surface of another planet. 
 The first color images were taken by Venera 13. 
 
-![Venera 13 lander. Source: [Earthly Mission](https://earthlymission.com/the-surface-of-venus-as-seen-from-a-soviet-venera-probe-in-1981/).](images/Venera-lander.jpg){fig-alt="Venera 13 lander."}
+![Venera 13 lander. Source: [Earthly Mission](https://earthlymission.com/the-surface-of-venus-as-seen-from-a-soviet-venera-probe-in-1981/).](images/Venera-lander.jpg){fig-alt="Venera 13 lander." width=80%}
 
 ![The suface of Venus. Sources: [Wikipedia](https://en.wikipedia.org/wiki/Venera_program#/media/File:Foto_de_Venera_9.png) and [Reddit](https://www.reddit.com/r/spaceporn/comments/2053hh/a_panoramic_view_of_the_surface_of_venus_from_the/).](images/Venus-surface.png){fig-alt="The surface of Venus."}
 
@@ -273,7 +273,7 @@ Answer this question to the person you're sitting beside.
 What’s this? 
 
 
-![The Roman Colosseum. Source: [iExplore](https://www.iexplore.com/experiences/world-wonders/experiences/seven-wonders-world/articles/get-to-know-romes-colosseum).](images/Roman-Colosseum.png){fig-alt="The Roman Colosseum."}
+![The Roman Colosseum. Source: [iExplore](https://www.iexplore.com/experiences/world-wonders/experiences/seven-wonders-world/articles/get-to-know-romes-colosseum).](images/Roman-Colosseum.png){fig-alt="The Roman Colosseum." width=80%}
 
 I'm not trying to be insufferable. 
 But, well actually, 
@@ -309,7 +309,7 @@ And we’re not born with this ability.
 
 Here is a photo of some people who can’t think abstractly very well at all.
 
-![Children bunching around the ball. Source: [nzone sports](https://www.nzonesports.com/thevalley/locations/kids-soccer-leagues-in-phoenix-az).](images/bunching-soccer-players.jpg){fig-alt="Children bunching around the ball."}
+![Children bunching around the ball. Source: [nzone sports](https://www.nzonesports.com/thevalley/locations/kids-soccer-leagues-in-phoenix-az).](images/bunching-soccer-players.jpg){fig-alt="Children bunching around the ball." width=80%}
 
 When young children learn to play soccer, 
 it's still all about "me." 
@@ -330,7 +330,7 @@ Eventually, some of these kids
 might grow up to play for Liverpool or Real Madrid 
 in the Champions League final in May 2022. 
 
-![[May 2022 UEFA Champions League final](https://en.wikipedia.org/wiki/2022_UEFA_Champions_League_final): [Liverpool](https://www.liverpoolfc.com) 0--1 [Real Madrid](https://www.realmadrid.com/en-US). Source: screen shot from tactical camera footage available on [YouTube](https://www.youtube.com/watch?v=oXn0KPPHzuY).](images/Champions-League-Final-2022.png){fig-alt="May 2022 UEFA Champions League final; Real Madrid vs. Liverpool."}
+![[May 2022 UEFA Champions League final](https://en.wikipedia.org/wiki/2022_UEFA_Champions_League_final): [Liverpool](https://www.liverpoolfc.com) 0--1 [Real Madrid](https://www.realmadrid.com/en-US). Source: screen shot from tactical camera footage available on [YouTube](https://www.youtube.com/watch?v=oXn0KPPHzuY).](images/Champions-League-Final-2022.png){fig-alt="May 2022 UEFA Champions League final; Real Madrid vs. Liverpool." width=80%}
 
 Now here are some people who can think abstractly! 
 I'm not bitter about my decade-old dispute with Randy Pruim. 

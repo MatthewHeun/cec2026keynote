@@ -291,7 +291,7 @@ In fact, it's so blurry, we often don’t notice it.
 Or at least in our language, 
 and therefore in our thinking, 
 the image on the screen really is the Colosseum, 
-not an abstract representation, 
+not an abstract representation;
 not a pho*to*, not pho*tons*!
 
 Moving between the concrete and the abstract 

@@ -241,7 +241,7 @@ we have negative model error.
 For Option B, the observations are the thing that's real. 
 
 Randy said (in my recollection, verbatim): 
-"The model is the thing that’s real.""
+"The model is the thing that’s real."
 I contended that the observations are the thing that’s real. 
 Who is right?
 

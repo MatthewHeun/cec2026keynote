@@ -6,6 +6,22 @@ book:
   author: "Matthew Kuperus Heun"
   date: "2026-05-29"
   favicon: _theme/assets/favicon.png
+  navbar:
+    right:
+      - text: About
+        href: https://matthewheun.com/about
+      - text: Awards
+        href: https://matthewheun.com/awards
+      - text: Publications
+        href: https://matthewheun.com/works/publications
+      - text: Presentations
+        href: https://matthewheun.com/works/presentations
+      - text: Posts
+        href: https://matthewheun.com/posts
+      - text: Retired blogs
+        href: https://matthewheun.com/retired_blogs/
+      - text: CV
+        href: https://matthewheun.com/files/Heun_CV.pdf
   chapters:
     - index.qmd
     - introduction.qmd

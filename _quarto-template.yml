@@ -15,9 +15,9 @@ book:
     - afterword.qmd
 
   #### Begin generated content ####
-  favicon: __FAVICON__
-  navbar: __NAVBAR__
-  page-footer: __PAGE-FOOTER__
+  # favicon: __FAVICON__
+  # navbar: __NAVBAR__
+  # page-footer: __PAGE-FOOTER__
 
-format: __FORMAT__
-execute: __EXECUTE__
+# format: __FORMAT__
+# execute: __EXECUTE__

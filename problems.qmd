@@ -29,7 +29,7 @@ the cars emitted 40-times
 more nitrous oxides, 
 polluting the air and creating smog.
 
-![VW Golf TDI Clean Diesel that wasn't very clean. Source: [Wikipedia](https://en.wikipedia.org/wiki/Volkswagen_emissions_scandal#/media/File:VW_Golf_TDI_Clean_Diesel_WAS_2010_8983.JPG).](images/VW-Golf-TDI-clean-diesel.jpg){fig-alt="VW Golf TDI Clean Diesel that wasn't very clean."}
+![VW Golf TDI Clean Diesel that wasn't very clean. Source: [Wikipedia](https://en.wikipedia.org/wiki/Volkswagen_emissions_scandal#/media/File:VW_Golf_TDI_Clean_Diesel_WAS_2010_8983.JPG).](images/VW-Golf-TDI-clean-diesel.jpg){fig-alt="VW Golf TDI Clean Diesel that wasn't very clean." width=80%}
 
 When dishonesty, sin, and evil take up residence 
 in engineering teams, the results aren’t good. 

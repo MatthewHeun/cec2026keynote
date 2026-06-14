@@ -8,19 +8,6 @@
 
 library(yaml)
 
-# common_navbar <- yaml::yaml.load_file("_theme/common-navbar.yml")
-# # footer <- yaml.load_file("_theme/common-footer.yml")
-
-# quarto_yml_template <- yaml::yaml.load_file("_quarto-template.yml")
-
-# quarto_yml <- quarto_yml_template
-# quarto_yml$book <- common_navbar
-
-# # website$website$`page-footer` <- footer
-
-# quarto_yml |> 
-#   yaml::write_yaml(file = "_quarto-trial.yml")
-
 file.path("_theme", "R", "build-quarto-yml.R") |> 
   source()
 

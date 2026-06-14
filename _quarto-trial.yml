@@ -117,7 +117,7 @@ book:
       href: feed://matthewheun.com/index.xml
 format:
   html:
-    respect-user-color-scheme: true
+    respect-user-color-scheme: yes
     theme:
       light:
       - cosmo
@@ -127,8 +127,8 @@ format:
       - slate
       - brand
       - _theme/styles.scss
-    toc: true
+    toc: yes
     html-math-method: mathjax
 execute:
-  enabled: true
+  enabled: yes
   freeze: auto

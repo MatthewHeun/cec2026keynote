@@ -1,0 +1,23 @@
+project:
+  type: book
+
+book:
+  title: "Engineering: What are we doing?"
+  author: "Matthew Kuperus Heun"
+  date: "2026-05-29"
+  chapters:
+    - index.qmd
+    - introduction.qmd
+    - creation.qmd
+    - problems.qmd
+    - redemption.qmd
+    - conclusion.qmd
+    - afterword.qmd
+
+  #### Begin generated content ####
+  favicon: __FAVICON__
+  navbar: __NAVBAR__
+  page-footer: __PAGE-FOOTER__
+
+format: __FORMAT__
+execute: __EXECUTE__

@@ -27,7 +27,7 @@ see my
 [blog post](https://matthewheun.com/posts/2026-05-29-ces-keynote-speech-photos/) 
 about the keynote.
 
-![Making a point. Source: Randy Pruim.](/images/CR5_0484-small.jpg){fig-alt="Making a point." group="ces-keynote-gallery" width=80%}
+![Making a point. Source: Randy Pruim.](/images/MKH-making-a-point.jpg){fig-alt="Making a point." group="ces-keynote-gallery" width=80%}
 
 The pages that follow will make more sense if you
 know a few things about the event:

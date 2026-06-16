@@ -17,6 +17,8 @@ book:
     right:
     - text: About
       href: https://matthewheun.com/about
+    - text: CEC keynote
+      href: https://cec2026keynote.matthewheun.com
     - text: Awards
       href: https://matthewheun.com/awards
     - text: Publications

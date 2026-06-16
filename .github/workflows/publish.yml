@@ -28,7 +28,7 @@ jobs:
       - name: Generate _quarto.yml
         run: Rscript _theme/R/build-quarto-yml.R
 
-      - name: Publish to Netlify 
+      - name: Render and publish to Netlify 
         uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: netlify

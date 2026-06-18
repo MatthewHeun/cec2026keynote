@@ -86,7 +86,8 @@ As buoyancy system lead,
 I was to implement on the flight system 
 the free lift proposed by Jonathan by adding 
 weights ($m_{FL}$)
-and adjusting the helium charge ($m_{He}$) 
+and adjusting the helium charge  
+($m_{He}$) 
 until the system was trimmed to neutral buoyancy 
 prior to launch.
 

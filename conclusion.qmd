@@ -6,7 +6,8 @@ between Randy and me.
 Years ago, I thought Option B was right: 
 observations in the concrete, tangible world 
 are the real thing. 
-Today, I now think that both Option A and B are right, but 
+Today, I now think that both 
+Option A and Option B are right, but 
 not because the difference is squared, 
 so SSE is the same for both options. 
 But rather because engineers need to be able to 

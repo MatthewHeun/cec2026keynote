@@ -154,14 +154,14 @@ again in preparation for the day
 that macro-level people begin addressing the problem of scale.
 
 Although you might not have known it, 
-if you walked past the Van Noord arena and 
+if you walked past the Van Noord Arena and 
 looked up to the roof, 
 you will have seen an example of such redemptive system change
 on this very campus. 
 There is a lot more going on here besides 
 new PV panels on the roof!
 
-![Solar panel installation on the lower roof of the Van Noord arena. Source: [Matthew Kuperus Heun](https://matthewheun.com).](images/van-noord-lower-roof-pv-panels.jpg){fig-alt="Solar panel installation on the lower roof of the Van Noord arena." width=80%}
+![Solar panel installation on the lower roof of the Van Noord Arena. Source: [Matthew Kuperus Heun](https://matthewheun.com).](images/van-noord-lower-roof-pv-panels.jpg){fig-alt="Solar panel installation on the lower roof of the Van Noord Arena." width=80%}
 
 In Fall 2024, 
 I posed the question 

@@ -35,7 +35,7 @@ know a few things about the event:
    Jeremy Van Antwerp, to whom I refer
    several times during the speech.
 2. I give reference to blue (backward) and 
-   fuchsia (forward) signs affixed to each row of seats
+   fuchsia (forward) signs affixed to alternating rows of seats
    in the auditorium. 
    The signs were labeled with "Engineering" or 
    "Mathematical sciences" to indicate 

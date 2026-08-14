@@ -1,0 +1,23 @@
+# This is navbar for the cec2026keynote website,
+# Use script/build-quarto-yml.R
+# to inject this navbar into the 
+# _quarto-template.yml 
+# file .
+# navbar:
+    right:
+      - text: About
+        href: https://matthewheun.com/about
+      - text: CEC keynote
+        href: index.qmd
+      - text: Awards
+        href: https://matthewheun.com/awards
+      - text: Publications
+        href: https://matthewheun.com/works/publications
+      - text: Presentations
+        href: https://matthewheun.com/works/presentations
+      - text: Posts
+        href: https://matthewheun.com/posts
+      - text: Retired blogs
+        href: https://matthewheun.com/retired_blogs/
+      - text: CV
+        href: https://matthewheun.com/files/Heun_CV.pdf

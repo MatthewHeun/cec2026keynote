@@ -3,4 +3,5 @@
 
 /_book/
 
+.DS_Store
 */.DS_Store

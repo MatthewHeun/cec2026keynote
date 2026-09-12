@@ -153,7 +153,7 @@ was a contributing factor include:
 
 - the near-meltdown at Three Mile Island 
   in which plant operators failed 
-  to recognize a loss-of-coolant accident, and
+  to recognize a loss-of-coolant accident and
 - the Air France Flight 4590 crash 
   in which runway debris led to 113 deaths and 
   the end of the Concorde program.
